@@ -49,7 +49,7 @@ Download ESL Software [ESL_Software](http://wiki.telink-semi.cn/tools_and_sdk/ES
 
 ![Step 4](http://wiki.telink-semi.cn/dokuwiki/lib/exe/detail.php?id=menu%3Asolution%3Aesl&media=pasted:20181022-192103.png)
 
-5. __Step 5__: Add a node in the new PAN ,a simple pan is be builded
+5. __Step 5__: Add a node in the new PAN, a simple pan is be builded
 
 ![Step 5](http://wiki.telink-semi.cn/dokuwiki/lib/exe/detail.php?id=menu%3Asolution%3Aesl&media=pasted:20181022-191601.png)
 
